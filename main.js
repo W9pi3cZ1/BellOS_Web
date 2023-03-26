@@ -1,4 +1,4 @@
-var audio = new Audio("/media/xslimenb/新加卷/minecraft/PCL/Musics/Lipps Inc. - Funkytown.flac");
+var audio = new Audio("./ls.mp3");
 var btn = document.querySelector("#Btn");
 var Time;
 var Time2 = new Array(0,0);
