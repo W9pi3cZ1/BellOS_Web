@@ -1,4 +1,4 @@
-var audio = new Audio("./ls.mp3");
+var audio = new Audio("https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1679817184752/ls.mp3");
 var btn = document.querySelector("#Btn");
 var Time;
 var Time2 = new Array(0,0);
