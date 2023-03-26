@@ -1,0 +1,2 @@
+# BellOS_Web
+BellOS_Web是一个为没有python解释器去运行BellOS的人，而重写的Web版本。
